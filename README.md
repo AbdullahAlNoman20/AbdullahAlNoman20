@@ -2,7 +2,7 @@
 #### I am Professional Web developer
 ![I am Professional Web developer](https://scontent-ccu1-2.xx.fbcdn.net/v/t39.30808-6/285144144_2046489855559369_5454108628639560357_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHIwq5QN17YGtb-qQ-AbYSlo-_Dp4JKSUKj78OngkpJQux9FMVQNaF6Ck5m6u8iogKADLrTFD76rFaGimBJTf38&_nc_ohc=OtTElppqNvMAX9k9LA-&_nc_ht=scontent-ccu1-2.xx&oh=00_AfB7HgHt9CclWOWcCA9XzN0TXpwbGQA1p6KgyPwWM_sWcQ&oe=6444E152)
 
-"Hi there! I'm [Your Name], a passionate web developer, YouTube content creator, and design enthusiast. With expertise in various programming languages such as HTML, CSS, C, C++, and Java, I love building innovative and user-friendly websites and web applications. My proficiency extends to design tools like Figma, where I bring creative concepts to life with stunning visuals and intuitive user experiences.
+"Hi there! I'm Abdullah Al Noman, a passionate web developer, YouTube content creator, and design enthusiast. With expertise in various programming languages such as HTML, CSS, C, C++, and Java, I love building innovative and user-friendly websites and web applications. My proficiency extends to design tools like Figma, where I bring creative concepts to life with stunning visuals and intuitive user experiences.
 
 With two years of experience in WordPress, I have honed my skills in developing dynamic and customizable websites. I also excel in data entry tasks and have a deep understanding of SEO techniques to enhance online visibility and improve search engine rankings.
 
