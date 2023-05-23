@@ -2,15 +2,13 @@
 #### I am Professional Web developer
 ![I am Professional Web developer](https://scontent-ccu1-2.xx.fbcdn.net/v/t39.30808-6/285144144_2046489855559369_5454108628639560357_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHIwq5QN17YGtb-qQ-AbYSlo-_Dp4JKSUKj78OngkpJQux9FMVQNaF6Ck5m6u8iogKADLrTFD76rFaGimBJTf38&_nc_ohc=OtTElppqNvMAX9k9LA-&_nc_ht=scontent-ccu1-2.xx&oh=00_AfB7HgHt9CclWOWcCA9XzN0TXpwbGQA1p6KgyPwWM_sWcQ&oe=6444E152)
 
-As a web developer, I am passionate about using my skills and knowledge to create innovative and functional websites that meet the needs of clients and users. I am constantly learning and staying up-to-date with the latest web development technologies, and I take pride in being able to bring my clients' visions to life.
+"Hi there! I'm [Your Name], a passionate web developer, YouTube content creator, and design enthusiast. With expertise in various programming languages such as HTML, CSS, C, C++, and Java, I love building innovative and user-friendly websites and web applications. My proficiency extends to design tools like Figma, where I bring creative concepts to life with stunning visuals and intuitive user experiences.
 
-My Github profile is a reflection of my expertise and experience in web development. It showcases my portfolio of projects, which range from simple static websites to complex web applications. Each project is a testament to my proficiency in various web development frameworks and programming languages, including HTML, CSS, JavaScript,Node.js, and Python.
+With two years of experience in WordPress, I have honed my skills in developing dynamic and customizable websites. I also excel in data entry tasks and have a deep understanding of SEO techniques to enhance online visibility and improve search engine rankings.
 
-In addition to showcasing my technical skills, my Github profile also demonstrates my collaborative and team-oriented approach to web development. I have contributed to several open-source projects and collaborated with other developers on various projects. I believe that working together and sharing knowledge is the key to success in this field.
+My journey as a developer and content creator has allowed me to combine my technical skills with my passion for teaching. On my YouTube channel, I share valuable tutorials, tips, and insights, empowering aspiring developers and designers to unlock their potential.
 
-My Github profile also highlights my commitment to continuous improvement and growth as a developer. I actively participate in online communities, attend workshops and conferences, and engage in self-directed learning to stay current with new trends and best practices in web development.
-
-Overall, my Github profile is a comprehensive representation of my skills, experience, and passion for web development. I am excited to continue building my portfolio and collaborating with other developers to create amazing web experiences.
+Join me on this exciting journey as we explore the ever-evolving world of web development, design, and technology. Let's create amazing digital experiences together!"
 
 Skills: JS / HTML / CSS / Java / Python/ C / 
 
