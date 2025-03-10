@@ -1,7 +1,7 @@
 ### Hi there 👋, This Is Abdullah Al Noman
 #### A Professional Web Developer | Machine Learning Enthusiast | Researcher
 
-https://github.com/AbdullahAlNoman20/AbdullahAlNoman20/assets/130217084/2fc710fc-d1de-4987-95ef-5ba5d2671bf9
+[https://github.com/AbdullahAlNoman20/AbdullahAlNoman20/assets/130217084/2fc710fc-d1de-4987-95ef-5ba5d2671bf9](https://media.licdn.com/dms/image/v2/D5616AQH38jxzOMmUGA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720755716684?e=1747267200&v=beta&t=WBA9GE2cLGjy4e8TK4NPfUKQ1_xjW-Czo_Qz-ei8JTw)
 
 Hi, I'm Abdullah Al Noman!
 Web Developer | Machine Learning Enthusiast | Researcher
