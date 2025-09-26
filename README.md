@@ -1,50 +1,144 @@
-### Hi there 👋, This Is Abdullah Al Noman
-#### A Professional Web Developer | Machine Learning Enthusiast | Researcher
-![Developer](https://github.com/user-attachments/assets/435daeb5-f6e0-493c-83d2-102f21428dba)
+<div align="center">
 
-Hi, I'm Abdullah Al Noman!
-Web Developer | Machine Learning Enthusiast | Researcher
+# 👋 Hi there, I'm Abdullah Al Noman
 
-Currently pursuing a B.Sc. in CSE at Daffodil International University, I’m passionate about leveraging technology for impactful solutions in web development, AI/ML, and research.
+### 🚀 Professional Web Developer | 🤖 Machine Learning Enthusiast | 🔬 Researcher
 
-Tech Stack & Expertise:
-Frontend & UI/UX: HTML, CSS, JavaScript, React.js, Figma
-Backend & Database: Node.js, Express.js, MongoDB, MySQL
-Machine Learning & AI: YOLO (Object Detection), EasyOCR, Python, Deep Learning
-Mobile Development: Flutter (Cross-platform apps)
-Version Control: Git & GitHub
-Notable Work & Achievements:
-Vehicle Number Plate Detection & Recognition (YOLOv8 & EasyOCR for Bangla & English)
-Web development for Mount Ride Ltd & Ummahatul Muminin Madrasa (Since 2020)
-Former Staff Reporter at Shadinkhobor.com (2017-2020)
-Certifications & Continuous Learning:
-Google Digital Marketing | Programming Hero – 9th Batch
-Learning from Udemy, Khalid Farhan Academy, GhooriLearning, Simply Learn & more
-💡 Passionate about innovation, problem-solving, and continuous learning. Open to collaborations!
+<img src="https://github.com/user-attachments/assets/435daeb5-f6e0-493c-83d2-102f21428dba" alt="Developer" width="400" height="300"/>
 
-Let’s connect! 🚀
+[![GitHub followers](https://img.shields.io/github/followers/AbdullahAlNoman20?label=Follow&style=social)](https://github.com/AbdullahAlNoman20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullah-al-noman-khu/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:abdullahalnoman.khu@gmail.com)
 
-Skills: HTML | CSS | JavaScript | React.js | Next.js | Tailwind CSS | Bootstrap | Figma | Node.js | Express.js | MongoDB | MySQL | Firebase | REST API | Flutter | WordPress | Git | GitHub | Linux | VirtualBox | Kali Linux | Cybersecurity | YOLO | EasyOCR | OpenCV | TensorFlow | PyTorch | NumPy | Pandas | Matplotlib | Deep Learning | AI/ML | NLP | Computer Vision | Google Colab | Digital Marketing | SEO | Content Writing | UI/UX Design | Project Management | Leadership
+</div>
 
-- 🔭 I’m currently working on Automated Waste Detection and Sorting Using YOLOv11 and IoT for Sustainable Waste Management 
-- 🌱 I’m currently learning Machine Learning And Artificial Intelligence 
-- 👯 I’m looking to collaborate on Research and Web Application 
-- 📫 How to reach me: abdullahalnoman.khu@gmail.com 
+---
 
+## 🎯 About Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AbdullahAlNoman20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abdullah-al-noman-khu//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/abdullahanoman07/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/a.n.1.0//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@AbdullahAlNoman./featured)  
+I'm a passionate **Computer Science Engineering** student at **Daffodil International University**, dedicated to creating innovative solutions through web development, artificial intelligence, and research. With a strong foundation in both frontend and backend technologies, I specialize in building scalable web applications and implementing cutting-edge AI/ML solutions.
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### 🎓 Education
+- **B.Sc. in Computer Science & Engineering** - Daffodil International University
+- **Google Digital Marketing** Certification
+- **Programming Hero** - 9th Batch Graduate
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/AbdullahAlNoman20)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AbdullahAlNoman20)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Tech Stack & Expertise
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/AbdullahAlNoman20&show_icons=true&count_private=true)  
+### 🌐 **Frontend & UI/UX**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/AbdullahAlNoman20/contributions?format=svg&private=true)  
+### ⚙️ **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=rest&logoColor=white)
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/AbdullahAlNoman20)  
+### 🤖 **AI/ML & Data Science**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/AbdullahAlNoman20)  
+### 📱 **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
+### 🔧 **Tools & Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
+---
+
+## 🏆 Notable Projects & Achievements
+
+### 🚗 **Vehicle Number Plate Detection & Recognition**
+- **Technology**: YOLOv8, EasyOCR, Computer Vision
+- **Features**: Real-time detection for both Bangla & English number plates
+- **Impact**: Automated vehicle identification system
+
+### 🌐 **Web Development Projects**
+- **Mount Ride Ltd** - Professional web development services (Since 2020)
+- **Ummahatul Muminin Madrasa** - Educational institution website
+- **Client-focused solutions** with modern UI/UX design
+
+### 📰 **Media & Content**
+- **Former Staff Reporter** at Shadinkhobor.com (2017-2020)
+- **Content creation** and digital marketing expertise
+
+---
+
+## 🔬 Current Focus
+
+- 🔭 **Currently Working On**: Automated Waste Detection and Sorting Using YOLOv11 and IoT for Sustainable Waste Management
+- 🌱 **Currently Learning**: Advanced Machine Learning and Artificial Intelligence
+- 👯 **Looking to Collaborate On**: Research projects and innovative web applications
+- 💡 **Passionate About**: Innovation, problem-solving, and continuous learning
+
+---
+
+## 📚 Continuous Learning
+
+I'm committed to staying updated with the latest technologies through:
+- **Udemy** - Advanced courses and certifications
+- **Khalid Farhan Academy** - Specialized training
+- **GhooriLearning** - Professional development
+- **Simply Learn** - Industry-relevant skills
+- **Google Colab** - Hands-on ML/AI projects
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahAlNoman20&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlNoman20&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AbdullahAlNoman20&theme=tokyonight&hide_border=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdullahAlNoman20&theme=tokyonight&no-frame=true&column=7)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdullahAlNoman20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-noman-khu/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdullahanoman07/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.n.1.0/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AbdullahAlNoman./featured)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahalnoman.khu@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Innovation distinguishes between a leader and a follower." - Steve Jobs
+
+**Open to collaborations, internships, and exciting opportunities!** 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=AbdullahAlNoman20&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
