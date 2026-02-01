@@ -26,7 +26,7 @@
 
 <div align="center">
 
-### 🎉 **Proudly Graduated with B.Sc. in Computer Science & Engineering**
+### **Proudly Graduated with B.Sc. in Computer Science & Engineering**
 **Daffodil International University** | Class of 2025
 
 </div>
